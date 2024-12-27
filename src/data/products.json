@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Haldiram's Sev Bhujia",
+      "image": "product-img-1.jpg",
+      "price": 5.00,
+      "unit": ".98 / lb",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Onion Flavour Potato",
+      "image": "product-img-4.jpg",
+      "price": 15.00,
+      "discountedPrice": 20.00,
+      "unit": "250g",
+      "quantity": 1
+    }
+  ]
+  
